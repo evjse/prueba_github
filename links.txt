@@ -1,0 +1,14 @@
+PYTHON DOCUMENTATION
+https://docs.python.org/3.9/index.html
+
+PYTHON TUTORIAL
+https://docs.python.org/3.9/tutorial/index.html
+
+README
+https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes
+
+.GITIGNORE
+https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
+
+LINCENCIA
+https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository
